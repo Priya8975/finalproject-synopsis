@@ -40,7 +40,7 @@
 
 **7) System Architecture (Functional Diagram):**
 
-`	`**![](Aspose.Words.5e787aa8-283a-476a-ab25-50df5c53f22d.001.png)**
+`	`**![acrchitecture](./architecture.png)**
 
 
 
@@ -86,38 +86,7 @@
 
 
 
-
-
-
-
-**10) Team Members:**
-
-
-|**Roll No.**|**Name of Student**|**Mobile Number**|**Sign**|
-| :-: | :-: | :-: | :-: |
-|BC117|Adesh Gadekar |9860828432||
-|BC128|Aaditya Komerwar|9309174423||
-|BC 130|Devashish Kukade|9359402322||
-|BC 176|Priyanka More|8975065036||
-
-
-
-
-
-
-
-
-
-
-**11) Guide/Mentor Details:**
-
-
-|Guide/Mentor|Name|Organization|Email-ID|Mobile No.|
-| :- | :- | :- | :- | :- |
-|Internal Guide|Prof. Jagruti Wagh|MMCOE|jagrutiwagh@mmcoe.edu.in|9527581783|
-|External Guide(in case of Sponsorship)|||||
-
-**12) References:**
+**10) References:**
 
 1. Lei Ru , Bin Zhang , Jing Duan , Guo Ru , Ashutosh Sharma , Gaurav Dhiman, Gurjot Singh Gaba , Emad Sami Jaha & Mehedi Masud, A Detailed Research on Human Health Monitoring System Based on Internet of Things, Hindawi Wireless Communications and Mobile Computing Volume 2021.
 1. Prajjwal Soam, Prateek Sharma, Neeraj Joshi, Health Monitoring System using IoT: A Review, International Conference of Advance Research and Innovation, 2020.
